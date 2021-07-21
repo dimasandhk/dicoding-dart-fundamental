@@ -1,0 +1,14 @@
+{
+	"configVersion": 2,
+	"packages": [
+		{
+			"name": "belajar_dart",
+			"rootUri": "../",
+			"packageUri": "lib/",
+			"languageVersion": "2.12"
+		}
+	],
+	"generated": "2021-07-21T07:03:04.253616Z",
+	"generator": "pub",
+	"generatorVersion": "2.13.4"
+}
