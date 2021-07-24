@@ -1,6 +1,6 @@
 extension Sorting on List<int> {
   List<int> sortAsc() {
-    List<int> list = this;
+    List<int> list = this; // Selection sort algorithm
     int length = this.length;
 
     for (int i = 0; i < length - 1; i++) {
